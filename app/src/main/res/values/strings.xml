@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC_Java</string>
+    <string name="title">Calculadora de IMC</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="resp_1">Muito Abaixo do Peso</string>
+    <string name="resp_2">Abaixo do Peso</string>
+    <string name="resp_3">Peso Normal</string>
+    <string name="resp_4">Acima do Peso</string>
+    <string name="resp_5">Obsesidade I</string>
+    <string name="resp_6">Obsesidade II (Severa)</string>
+    <string name="resp_7">Obsesidade III (Mórbida)</string>
+    <string name="calc">Calcular</string>
+    <string name="clear">Limpar</string>
+    <string name="err">Erro</string>
+</resources>
